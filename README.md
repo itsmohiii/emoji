@@ -11,4 +11,3 @@
 
 5. **Geliştirme Notları:** Oyunun geliştirme süreci hakkında kısa bir bilgi veya geliştiricilere yönelik notlar ekleyebiliriz.
 
-Bu gibi ek detaylar, oyunculara oyun hakkında daha fazla bilgi sağlayarak onların oyun deneyimini geliştirebilir. Ancak, README dosyasının hala net ve anlaşılır olmasını sağlamak önemlidir. Bu nedenle, ek detaylar eklerken sade ve anlaşılır bir dil kullanmaya dikkat etmekte fayda var.
